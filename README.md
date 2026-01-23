@@ -3,9 +3,7 @@
 
 <a style = "text-align:right">
     Howdy I'm Alex. I'm a self-taught programmer hailing from Kentucky who's been programming since freshman year of highschool. Unfortunately,  I didn't make a github until a little while ago.
-I really like functional programming and low-level languages and have a particular affinity for making compilers, whether they are serious or not. I program a lot, but some days
-I enjoy taking long walks on the beach and pretending I have a lover, only to slowly realize that I have condemed myself to a life of software engineering and thus solitude. 
-That's all, bye. :D
+I really like functional programming and low-level languages and have a particular affinity for making compilers, whether they are serious or not. I program a lot :(.
 </a>
 
 
