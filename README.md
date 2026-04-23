@@ -71,9 +71,6 @@ I really like functional programming and low-level languages and have a particul
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
     </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> 
-    </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/>
     </a> 
@@ -82,23 +79,6 @@ I really like functional programming and low-level languages and have a particul
     </a> 
 
 </p>
-
-
-# tools I'm learning
-
-<br>
-<p align = "center"  >
-    <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer" >
-        <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="elixir" width = "80" height = "80"/>
-    </a>
-    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer" >
-        <img src = "https://www.erlang.org/assets/img/erlang-logo.svg" alt="erlang" width = "80" height = "80"/>
-    </a>
-        <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer" style="margin-left:20px;">
-        <img src = "https://scorpil.com/img/phoenix.png" alt="erlang" width = "80" height = "80"/>
-    </a>
-</p>
-
 
 # contact me
 
